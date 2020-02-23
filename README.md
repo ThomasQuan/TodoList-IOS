@@ -1,2 +1,2 @@
-# TodoList-IOS
-Beginner IOS Development Project
+#Early stage of Project 
+#Creating the scope and wireframe....
