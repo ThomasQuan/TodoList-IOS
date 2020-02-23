@@ -1,8 +1,11 @@
 #Early stage of Project 
 Creating the scope and wireframe....
-<h1> Description </h1>
-<p> This project (Todo List) similar to Samsung note or Evernote serve as an introduction to IOS Development which me and my friend will be developing </p>
-<p> For the first project we want something that will cover all the tools and widget that IOS XCode have to offer us before jumpingg into framework and library etc.. </p>
+<h1> Project member </h1>
+<p>  Thanh Quan https://github.com/ThomasQuan </p>
+<p> Tu Nguyen https://github.com/tunguyen912 </p>
+<h1> Project Description </h1>
+<p> We will be creating a Todo List application using IOS Xcode to do so. This project goal is to create the tools and service that's similar to other popular Todo list application have ( Samsung note , Evernote , etc... ) </p>
+<p>  </p>
 <tb>
 <table>
   <tr>
