@@ -11,21 +11,12 @@ Creating the scope and wireframe....
     <th>Scope</th>
   </tr>
   <tr>
-    <td>Having a calendar to select a todo list event on a specific date</td>
-  </tr>
-  <tr>
     <td>Listing the list of event which have been written by the user</td>
     <td>Deleting the selected event</td>
     <td>Creating a event with date and time</td>
+        <td>Create local storage for application to stor    <td>Updating selected event</td>
+e event list</td>
+
   </tr>
-  <tr>
-    <td>Search for a selected event</td>
-    <td>Sort event list</td>
-    <td>Create local storage for application to store event list</td>
-  </tr>
-  <tr>
-     <td>Alert time and date of the event for user</td>
-    <td>Authentication for secure event ( like password storage or SIN storage) </td>
-    <td>Updating selected event</td>
-  </tr>
+
 </table>
