@@ -1,4 +1,3 @@
-Creating the scope and wireframe....
 <h1> Project member </h1>
 <p>  Thanh Quan https://github.com/ThomasQuan </p>
 <p> Tu Nguyen https://github.com/tunguyen912 </p>
