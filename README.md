@@ -16,7 +16,9 @@ Creating the scope and wireframe....
     <td>Listing the list of event which have been written by the user</td>
     <td>Deleting the selected event</td>
     <td>Creating a event with date and time</td>
-        <td>Create local storage for application to stor    <td>Updating selected event</td>
+    <td>Create local storage for application to store
+    <td>Updating selected event</td>
+    <td>Authenticate an events for the user</td>
 e event list</td>
 
   </tr>
