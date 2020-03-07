@@ -18,8 +18,23 @@
     <td>Create local storage for application to store
     <td>Updating selected event</td>
     <td>Authenticate an events for the user</td>
-e event list</td>
-
   </tr>
-
+</table>
+  
+  <table>
+  <tr>
+    <th>User Case</th>
+  </tr>
+  <tr>
+    <td>As a user I want to be able to view all of my events that I plan on doing in a quick manner.</td>
+  </tr>
+   <tr>
+    <td>As a user I want to keep my events lock like password or SIN number so I don't loose important, or sensitive information</td>
+  </tr>
+   <tr>
+    <td>As a user I want to change my event so I can be more flexiable if the events didn't go as I expected</td>
+  </tr>
+   <tr>
+    <td>As a user I want to delete my event/events easily so I don't get load of useless events that has already finish pile up.</td>
+  </tr>
 </table>
