@@ -1,6 +1,8 @@
+<h1>Current Status</h1>
+<h3>The project initial look and code has been implemented</h3>
 <h1> Project member </h1>
-<p>  Thanh Quan https://github.com/ThomasQuan </p>
-<p> Tu Nguyen https://github.com/tunguyen912 </p>
+<p>  Thanh Quan https://github.com/ThomasQuan  student id : 101142560 </p>
+<p> Tu Nguyen https://github.com/tunguyen912 student id : 101142560</p>
 <h1> Project Description </h1>
 <p> We will be creating a Todo List application using IOS Xcode. The project will conside of CRUD (Create, Read,Update,Delete)  </p>
 <h3>Vision of the project</h3>
