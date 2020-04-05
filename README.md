@@ -39,4 +39,7 @@
    <tr>
     <td>As a user I want to delete my event/events easily so I don't get load of useless events that has already finish pile up.</td>
   </tr>
+  <tr>
+    <td>As a user I prioritize my events in any order that I want, either it's by date or by the important rating.</td>
+  </tr>
 </table>
